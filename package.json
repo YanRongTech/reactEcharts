@@ -1,6 +1,7 @@
 {
   "name": "react-echarts",
   "version": "1.0.0",
+  "main": "dist/react-echarts.js",
   "description": "",
   "scripts": {
     "dist": "webpack"
